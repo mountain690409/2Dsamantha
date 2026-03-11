@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: a93e28cb704e4ee4d8d878178ba8b2c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4705316891428088977
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_0"
+  - first:
+      213: -7611605887058270823
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_1"
+  - first:
+      213: 4077164421407396070
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_2"
+  - first:
+      213: 8767812374090614622
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_3"
+  - first:
+      213: 1223920977453229443
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_4"
+  - first:
+      213: -8854598516537470826
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_5"
+  - first:
+      213: 733230011380038598
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_6"
+  - first:
+      213: -7800684546542832475
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_7"
+  - first:
+      213: 5672047778355303567
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_8"
+  - first:
+      213: -3865764656888655338
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_9"
+  - first:
+      213: -6004514151167421596
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_10"
+  - first:
+      213: -467414508357650074
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_11"
+  - first:
+      213: -9131484299466185348
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_12"
+  - first:
+      213: -7972603789863702081
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_13"
+  - first:
+      213: 2987781213898560392
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_14"
+  - first:
+      213: -3903250940780247174
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_15"
+  - first:
+      213: 1711988795117588441
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_16"
+  - first:
+      213: -8657337007775882797
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_17"
+  - first:
+      213: -936241540577731734
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_18"
+  - first:
+      213: -4290971259059607006
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_19"
+  - first:
+      213: -8812200010194384910
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_20"
+  - first:
+      213: 8792362268794506682
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_21"
+  - first:
+      213: -322211090936556657
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_22"
+  - first:
+      213: -9199202151360658025
+    second: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_23"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_0"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 573
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c673d68c4ac4140800000000000000
+      internalID: 4705316891428088977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_1"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 581
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995ae9316c42e5690800000000000000
+      internalID: -7611605887058270823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_2"
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 579
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e059d4807ff49830800000000000000
+      internalID: 4077164421407396070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_3"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 554
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5702fe76e68da970800000000000000
+      internalID: 8767812374090614622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_4"
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 565
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385af36f4ad3cf010800000000000000
+      internalID: 1223920977453229443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_5"
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 554
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690551910952e1580800000000000000
+      internalID: -8854598516537470826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_6"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 553
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb76fe7fc4fc2a00800000000000000
+      internalID: 733230011380038598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_7"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 549
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a47f661cb66eb390800000000000000
+      internalID: -7800684546542832475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_8"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 536
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8459e1176927be40800000000000000
+      internalID: 5672047778355303567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_9"
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 489
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61254e8b68b0a5ac0800000000000000
+      internalID: -3865764656888655338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_10"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 480
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4631cda513eabaca0800000000000000
+      internalID: -6004514151167421596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_11"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 100
+        width: 417
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6697a7a2bf86389f0800000000000000
+      internalID: -467414508357650074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_12"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 386
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75e24a0963764180800000000000000
+      internalID: -9131484299466185348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_13"
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 216
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1bd32081f9b5190800000000000000
+      internalID: -7972603789863702081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_14"
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 245
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88352012f2bb67920800000000000000
+      internalID: 2987781213898560392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_15"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 160
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77859d13fdd4d9c0800000000000000
+      internalID: -3903250940780247174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_16"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 99
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfce681db432c710800000000000000
+      internalID: 1711988795117588441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_17"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 102
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1eca62cd5fad780800000000000000
+      internalID: -8657337007775882797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_18"
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 66
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b56ed774dc103f0800000000000000
+      internalID: -936241540577731734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_19"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 95
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a675adf586374c0800000000000000
+      internalID: -4290971259059607006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_20"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 69
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f78bae97c6c4b580800000000000000
+      internalID: -8812200010194384910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_21"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 78
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd4b0846eeb40a70800000000000000
+      internalID: 8792362268794506682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_22"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 14
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83190e48b6478bf0800000000000000
+      internalID: -322211090936556657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_23"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 13
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795832ff16ed55080800000000000000
+      internalID: -9199202151360658025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_0": 4705316891428088977
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_1": -7611605887058270823
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_10": -6004514151167421596
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_11": -467414508357650074
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_12": -9131484299466185348
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_13": -7972603789863702081
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_14": 2987781213898560392
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_15": -3903250940780247174
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_16": 1711988795117588441
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_17": -8657337007775882797
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_18": -936241540577731734
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_19": -4290971259059607006
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_2": 4077164421407396070
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_20": -8812200010194384910
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_21": 8792362268794506682
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_22": -322211090936556657
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_23": -9199202151360658025
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_3": 8767812374090614622
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_4": 1223920977453229443
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_5": -8854598516537470826
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_6": 733230011380038598
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_7": -7800684546542832475
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_8": 5672047778355303567
+      "pngtree-glowing-start-button-png-image_16449774\u62F7\u8C9D_9": -3865764656888655338
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
